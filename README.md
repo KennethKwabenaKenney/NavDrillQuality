@@ -83,6 +83,10 @@ OR
 
 Download the standalone executable in the dist folder
 
+OR
+
+Download the NAVDQ.py in the main branch and run inside any python IDE (such as Spyder etc.)
+
 ---
 
 ## Usage
